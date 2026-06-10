@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "13a2232e9b48d88e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eff90643e274528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4b4f6e7e10a6f4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f2b7060e087089f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b651ca9e84fe14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d43ad15830a38e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "25fbd9e6fd891428",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8c5916215d3e4cb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "460fd4e71b3cf85b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d93e2aafb11e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "355019e6bfccfef1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "a4c8ef09faea47f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "fit:Sync to GitHub": false
+    }
+  },
+  "active": "b4b4f6e7e10a6f4e",
+  "lastOpenFiles": [
+    "Ресурсы/Помогатор/Подключение к гит.md",
+    "README.md",
+    "Ресурсы/Изображения/Pasted image 20260610162951.png",
+    "README.md",
+    "Ресурсы/Изображения/Pasted image 20260610164759.png",
+    "Ресурсы/Изображения/Pasted image 20260610164655.png",
+    "Ресурсы/Изображения/Pasted image 20260610164336.png",
+    "Ресурсы/Изображения/Pasted image 20260610164305.png",
+    "Ресурсы/Изображения/Pasted image 20260610164126.png",
+    "Ресурсы/Изображения/Pasted image 20260610163129.png",
+    "Ресурсы/Изображения/Pasted image 20260610163020.png",
+    "Ресурсы/Изображения/Pasted image 20260610162824.png",
+    "Ресурсы/Изображения",
+    "Ресурсы/Помогатор/Основной функционал.md",
+    "Ресурсы/Помогатор",
+    "Ресурсы/Шаблоны",
+    "Добро пожаловать.md",
+    "Ресурсы/Файлы",
+    "Ресурсы"
+  ]
+}
